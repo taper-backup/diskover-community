@@ -1,4 +1,5 @@
 elasticsearch==7.13.4
+# confuse: configuration library for Python that uses YAML
 confuse==1.6.0
 pywin32==302
 psutil==5.8.0
